@@ -1,0 +1,21 @@
+# Archivos de sesión de R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Caché interna del pipeline targets (se regenera con tar_make)
+_targets/
+
+# Librerías locales de renv (se regeneran con renv::restore)
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+renv/python/
+
+# Respaldos antiguos y archivos temporales de Excel
+Archivo_Legacy/
+~$*.xlsx
+Thumbs.db
+.DS_Store
